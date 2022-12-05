@@ -1,0 +1,15 @@
+C:\Git_my\C#\HomeWork2\13\obj\Debug\net7.0\13.csproj.AssemblyReference.cache
+C:\Git_my\C#\HomeWork2\13\obj\Debug\net7.0\13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git_my\C#\HomeWork2\13\obj\Debug\net7.0\13.AssemblyInfoInputs.cache
+C:\Git_my\C#\HomeWork2\13\obj\Debug\net7.0\13.AssemblyInfo.cs
+C:\Git_my\C#\HomeWork2\13\obj\Debug\net7.0\13.csproj.CoreCompileInputs.cache
+C:\Git_my\C#\HomeWork2\13\bin\Debug\net7.0\13.exe
+C:\Git_my\C#\HomeWork2\13\bin\Debug\net7.0\13.deps.json
+C:\Git_my\C#\HomeWork2\13\bin\Debug\net7.0\13.runtimeconfig.json
+C:\Git_my\C#\HomeWork2\13\bin\Debug\net7.0\13.dll
+C:\Git_my\C#\HomeWork2\13\bin\Debug\net7.0\13.pdb
+C:\Git_my\C#\HomeWork2\13\obj\Debug\net7.0\13.dll
+C:\Git_my\C#\HomeWork2\13\obj\Debug\net7.0\refint\13.dll
+C:\Git_my\C#\HomeWork2\13\obj\Debug\net7.0\13.pdb
+C:\Git_my\C#\HomeWork2\13\obj\Debug\net7.0\13.genruntimeconfig.cache
+C:\Git_my\C#\HomeWork2\13\obj\Debug\net7.0\ref\13.dll
